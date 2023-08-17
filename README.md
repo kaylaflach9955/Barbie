@@ -1,2 +1,2 @@
-# Barbie
-Site  da Barbie
+# Barbie.site
+Site informativo sobre a Barbie.
